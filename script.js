@@ -12,7 +12,7 @@ const songs = [
   'songs/Conan Gray - Never Ending Song.mp3',
   'songs/Taylor Swift - The Prophecy.mp3',
   'songs/Gotye - Somebody That I Used To Know.mp3',
-  'songs/song5.mp3',
+  'songs/Harry Styles - Matilda.mp3',
   'songs/Bastille - Pompeii.mp3',
 ];
 
