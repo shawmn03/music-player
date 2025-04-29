@@ -8,8 +8,8 @@ let currentSong = 0;
 let isPlaying = false;
 
 const songs = [
-  'songs/song1.mp3',
-  'songs/song2.mp3',
+  'songs/ABBA - The Winner Takes It All.mp3',
+  'songs/Conan Gray - Never Ending Song.mp3',
   'songs/song3.mp3',
   'songs/song4.mp3',
   'songs/song5.mp3',
