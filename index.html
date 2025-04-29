@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iPod Web Player</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="ipod">
+    <div class="screen">
+      <div class="menu" id="menu">
+        <h3>Megan's Music Player</h3>
+        <ul id="song-list">
+          <li class="selected">Song 1</li>
+          <li>Song 2</li>
+          <li>Song 3</li>
+          <li>Song 4</li>
+          <li>Song 5</li>
+          <li>Song 6</li>
+        </ul>
+      </div>
+      <div class="now-playing" id="now-playing">
+        <p id="now-title">Playing:</p>
+      </div>
+    </div>
+    <div class="wheel">
+      <div class="button top" id="menu-btn">MENU</div>
+      <div class="button left" id="prev-btn">&#9664;</div>
+      <div class="button right" id="next-btn">&#9654;</div>
+      <div class="button bottom" id="play-pause-btn">▶/⏸</div>
+      <div class="center-button" id="select-btn"></div>
+    </div>
+  </div>
+
+  <audio id="audio" src="songs/song1.mp3"></audio>
+  <script src="script.js"></script>
+</body>
+</html>
