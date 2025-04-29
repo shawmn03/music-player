@@ -13,7 +13,7 @@ const songs = [
   'songs/Taylor Swift - The Prophecy.mp3',
   'songs/Gotye - Somebody That I Used To Know.mp3',
   'songs/song5.mp3',
-  'songs/song6.mp3',
+  'songs/Bastille - Pompeii.mp3',
 ];
 
 function updateSelected(index) {
