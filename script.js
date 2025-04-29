@@ -10,7 +10,7 @@ let isPlaying = false;
 const songs = [
   'songs/ABBA - The Winner Takes It All.mp3',
   'songs/Conan Gray - Never Ending Song.mp3',
-  'songs/song3.mp3',
+  'songs/Taylor Swift - The Prophecy.mp3',
   'songs/song4.mp3',
   'songs/song5.mp3',
   'songs/song6.mp3',
